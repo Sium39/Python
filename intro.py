@@ -7,3 +7,7 @@ name = 'John'
 age = 20
 new_patient = True
 print(name, age, new_patient)
+
+num1 = 10
+num2 = 20
+print(num1+num2)
